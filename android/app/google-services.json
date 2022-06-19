@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "198443042075",
+    "project_id": "social-app-caa25",
+    "storage_bucket": "social-app-caa25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198443042075:android:1539848d6645ed3d99ffbe",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198443042075-lpo17b2m2ir95c416eqv3i6stcc1mtac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwAsYogFz4VpqYcDwScO9CdL9IFqQaNjw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198443042075-lpo17b2m2ir95c416eqv3i6stcc1mtac.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "198443042075-0p2ufnk19gk17bk4ogeb9j5k32p94r2i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "dev.rawash.kalmny"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
